@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+
+gem 'optimiziely-sdk'
+gem 'httparty'
+
